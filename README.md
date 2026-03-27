@@ -41,14 +41,12 @@ Instead of treating all clients equally, **ReSoFed** evaluates how well each cli
 <p align="center">
 <img width="1122" height="480" alt="image" src="https://github.com/user-attachments/assets/96958efd-1e26-4cac-9d73-1bb93d6f4af8" />
 </p>
-
 <p align="center"> 
 <span style="color: #6a737d;">
-<b>Figure:</b> Overview of the proposed <b>ReSoFed</b> framework. It first estimates client reliability, 
+<b>FIGURE:</b> Overview of the proposed <b>ReSoFed</b> framework. It first estimates client reliability, 
 performs greedy model soup-based selection, and then applies reliability-aware aggregation 
 to produce a robust global model. 
 </span></p>
-
 
 
 ### 🔹 Step 1: Cross-Domain Reliability Estimation
@@ -122,3 +120,4 @@ ReSoFed consistently outperforms standard federated learning (FedAvg) across mul
 
 ---
 
+> Contact me at rafsan.kabir@ucalgary.ca
